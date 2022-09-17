@@ -28,7 +28,7 @@ body {
     width: 100%;
     max-width: 320px;
     height: 80vh;
-    background: url(./images/snowy.jpg) no-repeat center;
+    background: url(/images/sunny.jpg) no-repeat center;
     background-size: cover;
     border-radius: 10px;
     overflow: hidden;
